@@ -4,7 +4,7 @@
   <subtitle><![CDATA[blog]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://dj-code.net/"/>
-  <updated>2016-01-17T15:56:47.070Z</updated>
+  <updated>2016-01-18T07:28:44.783Z</updated>
   <id>http://dj-code.net/</id>
   
   <author>
@@ -16,20 +16,14 @@
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://dj-code.net/2016/01/17/first_page/"/>
-    <id>http://dj-code.net/2016/01/17/first_page/</id>
-    <published>2016-01-17T15:56:47.070Z</published>
-    <updated>2016-01-17T15:56:47.070Z</updated>
+    <link href="http://dj-code.net/2016/01/18/first_page/"/>
+    <id>http://dj-code.net/2016/01/18/first_page/</id>
+    <published>2016-01-18T07:28:44.783Z</published>
+    <updated>2016-01-18T07:28:44.783Z</updated>
     <content type="html"><![CDATA[<p>今天腊八节，我的网络记事本启程了。</p>
-<blockquote>
-<p>Hello World</p>
-</blockquote>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>今天腊八节，我的网络记事本启程了。</p>
-<blockquote>
-<p>Hello World</p>
-</blockquote>
 ]]>
     </summary>
     
