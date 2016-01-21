@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[过客]]></title>
-  <subtitle><![CDATA[blog]]></subtitle>
+  <title><![CDATA[过客 | blog]]></title>
+  <subtitle><![CDATA[The Lonely Hunter]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://dj-code.net/"/>
-  <updated>2016-01-18T07:28:44.783Z</updated>
+  <updated>2016-01-21T16:23:18.151Z</updated>
   <id>http://dj-code.net/</id>
   
   <author>
@@ -16,10 +16,10 @@
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://dj-code.net/2016/01/18/first_page/"/>
-    <id>http://dj-code.net/2016/01/18/first_page/</id>
-    <published>2016-01-18T07:28:44.783Z</published>
-    <updated>2016-01-18T07:28:44.783Z</updated>
+    <link href="http://dj-code.net/2016/01/17/first_page/"/>
+    <id>http://dj-code.net/2016/01/17/first_page/</id>
+    <published>2016-01-17T15:48:41.000Z</published>
+    <updated>2016-01-21T16:23:18.151Z</updated>
     <content type="html"><![CDATA[<p>今天腊八节，我的网络记事本启程了。</p>
 ]]></content>
     <summary type="html">
